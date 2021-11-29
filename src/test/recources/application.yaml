@@ -7,6 +7,9 @@ spring:
   h2:
     console:
       enabled: true
+  shell:
+    interactive:
+      enabled: false
 
 logging:
   level:
